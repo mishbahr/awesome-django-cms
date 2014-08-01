@@ -29,6 +29,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [djangocms-admin-style](https://github.com/divio/djangocms-admin-style) — Adds pretty CSS styles for the django CMS admin interface.
 - [django-admin-shortcuts](https://github.com/alesdotio/django-admin-shortcuts) — Add simple and pretty shortcuts to the django admin homepage.
 - [django-filer](https://github.com/stefanfoulis/django-filer) — File and Image Management Application for Django — works seamlessly with Django CMS
+- [django-reversion](https://github.com/etianen/django-reversion) — Comprehensive version control for CMS contents. 
 
 ## Resources
  - [Django CMS Repo](https://github.com/divio/django-cms) — Official django-cms repo on GitHub
