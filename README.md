@@ -26,6 +26,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 
 ## Projects
 
+- [djangocms-installer](https://github.com/nephila/djangocms-installer) — Making the process of installing django-cms a breeze.
 - [djangocms-admin-style](https://github.com/divio/djangocms-admin-style) — Adds pretty CSS styles for the django CMS admin interface.
 - [django-admin-shortcuts](https://github.com/alesdotio/django-admin-shortcuts) — Add simple and pretty shortcuts to the django admin homepage.
 - [django-filer](https://github.com/stefanfoulis/django-filer) — File and Image Management Application for Django — works seamlessly with Django CMS
