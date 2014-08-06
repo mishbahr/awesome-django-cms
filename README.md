@@ -12,6 +12,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 ## Add-ons
 
 - [djangocms-text-ckeditor](https://github.com/divio/djangocms-text-ckeditor) — Text Plugin with CK-Editor
+- [djangocms-cascade](https://github.com/jrief/djangocms-cascade) — Swiss army knife for cms placeholders
 - [djangocms-link](https://github.com/divio/djangocms-link) — Link plugin
 - [djangocms-snippet](https://github.com/divio/djangocms-snippet) — HTML snippet plugin
 - [djangocms-style](https://github.com/divio/djangocms-style) — Allows add CSS styles to other plugins.
