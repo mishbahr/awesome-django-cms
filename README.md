@@ -28,6 +28,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [djangocms-page-tags](https://github.com/nephila/djangocms-page-tags) — Tagged pages using django-taggit
 - [djangocms_twitter](https://github.com/nephila/djangocms_twitter) — Twitter plugin using 1.1 of the Twitter API
 - [cmsplugin-contact](https://github.com/maccesch/cmsplugin-contact) —  Contact plugin for django-cms with spam protection and i18n
+- [cmsplugin-contact-plus](https://github.com/arteria/cmsplugin-contact-plus) — form builder for cms
 
 
 ## Projects
