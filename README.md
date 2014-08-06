@@ -15,7 +15,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [djangocms-cascade](https://github.com/jrief/djangocms-cascade) — Swiss army knife for cms placeholders
 - [djangocms-link](https://github.com/divio/djangocms-link) — Link plugin
 - [djangocms-googlemap](https://github.com/divio/djangocms-googlemap) — A Google Maps plugin
-- [djangocms-picture](https://github.com/divio/djangocms-picture) — Image plugin (see also [cmsplugin-filer](https://github.com/stefanfoulis/cmsplugin-filer/tree/develop/cmsplugin_filer_image) for an alternative image plugin).
+- [djangocms-picture](https://github.com/divio/djangocms-picture) — Image plugin (Have a look at [cmsplugin-filer](https://github.com/stefanfoulis/cmsplugin-filer/tree/develop/cmsplugin_filer_image) for an alternative image plugin).
 - [djangocms-snippet](https://github.com/divio/djangocms-snippet) — HTML snippet plugin
 - [djangocms-style](https://github.com/divio/djangocms-style) — Allows add CSS styles to other plugins.
 - [djangocms-column](https://github.com/divio/djangocms-column) — Column plugin
