@@ -16,6 +16,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [djangocms-link](https://github.com/divio/djangocms-link) — Link plugin
 - [djangocms-googlemap](https://github.com/divio/djangocms-googlemap) — A Google Maps plugin
 - [djangocms-picture](https://github.com/divio/djangocms-picture) — Image plugin (Have a look at [cmsplugin-filer](https://github.com/stefanfoulis/cmsplugin-filer/tree/develop/cmsplugin_filer_image) for an alternative image plugin).
+- [cmsplugin_gallery](https://github.com/centralniak/cmsplugin_gallery) — Photo gallery plugin
 - [djangocms-snippet](https://github.com/divio/djangocms-snippet) — HTML snippet plugin
 - [djangocms-style](https://github.com/divio/djangocms-style) — Allows add CSS styles to other plugins.
 - [djangocms-column](https://github.com/divio/djangocms-column) — Column plugin
@@ -25,6 +26,8 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [cmsplugin-filer](https://github.com/stefanfoulis/cmsplugin-filer) — django-filer plugins
 - [djangocms-page-meta](https://github.com/nephila/djangocms-page-meta) — OpenGraph, Twitter Card and Google+ snippet tags for cms pages
 - [djangocms-page-tags](https://github.com/nephila/djangocms-page-tags) — Tagged pages using django-taggit
+- [djangocms_twitter](https://github.com/nephila/djangocms_twitter) — Twitter plugin using 1.1 of the Twitter API
+- [cmsplugin-contact](https://github.com/maccesch/cmsplugin-contact) —  Contact plugin for django-cms with spam protection and i18n
 
 
 ## Projects
