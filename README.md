@@ -18,11 +18,11 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [cmsplugin_gallery](https://github.com/centralniak/cmsplugin_gallery) — Photo gallery plugin
 - [djangocms-cascade](https://github.com/jrief/djangocms-cascade) — Swiss army knife for cms placeholders
 - [djangocms-column](https://github.com/divio/djangocms-column) — Column plugin
-- [djangocms_events](https://travis-ci.org/aptivate/djangocms_events) — A reusable plugin and app for all kinds of events/calendars.
+- [djangocms_events](https://github.com/aptivate/djangocms_events) — A reusable plugin and app for all kinds of events/calendars.
 - [djangocms-googlemap](https://github.com/divio/djangocms-googlemap) — A Google Maps plugin
 - [djangocms-grid](https://github.com/divio/djangocms-grid) — A multi-column plugin, that uses a common grid system.
 - [djangocms-link](https://github.com/divio/djangocms-link) — Link plugin
-- [djangocms_mount](https://travis-ci.org/aptivate/djangocms_mount) — Embed any class-based view in a DjangoCMS plugin in seconds (especially ListView).
+- [djangocms_mount](https://github.com/aptivate/djangocms_mount) — Embed any class-based view in a DjangoCMS plugin in seconds (especially ListView).
 - [djangocms-oembed](https://github.com/divio/djangocms-oembed) — A set of oembed plugins (currently only video).
 - [djangocms-page-meta](https://github.com/nephila/djangocms-page-meta) — OpenGraph, Twitter Card and Google+ snippet tags for cms pages
 - [djangocms-page-tags](https://github.com/nephila/djangocms-page-tags) — Tagged pages using django-taggit
