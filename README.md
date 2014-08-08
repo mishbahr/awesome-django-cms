@@ -21,6 +21,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [djangocms_events](https://github.com/aptivate/djangocms_events) — A reusable plugin and app for all kinds of events/calendars.
 - [djangocms-googlemap](https://github.com/divio/djangocms-googlemap) — A Google Maps plugin
 - [djangocms-grid](https://github.com/divio/djangocms-grid) — A multi-column plugin, that uses a common grid system.
+- [djangocms-inherit](https://github.com/divio/djangocms-inherit) — inherit plugin for django CMS.
 - [djangocms-link](https://github.com/divio/djangocms-link) — Link plugin
 - [djangocms_mount](https://github.com/aptivate/djangocms_mount) — Embed any class-based view in a DjangoCMS plugin in seconds (especially ListView).
 - [djangocms-oembed](https://github.com/divio/djangocms-oembed) — A set of oembed plugins (currently only video).
