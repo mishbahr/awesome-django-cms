@@ -33,6 +33,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [djangocms-table](https://github.com/divio/djangocms-table) — Plugin for creating tables
 - [djangocms-text-ckeditor](https://github.com/divio/djangocms-text-ckeditor) — Text Plugin with CK-Editor
 - [djangocms_twitter](https://github.com/nephila/djangocms_twitter) — Twitter plugin using 1.1 of the Twitter API
+- [djangocms-usersettings2](https://github.com/mishbahr/djangocms-usersettings2) — The missing extension to the Django “sites” framework, use it to store additional information for your Django-powered sites.
 
 
 ## Projects
