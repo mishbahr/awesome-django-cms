@@ -12,6 +12,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 ## Add-ons
 - [aldryn-forms](https://github.com/aldryn/aldryn-forms) — dynamic forms builder
 - [aldryn-gallery](https://github.com/aldryn/aldryn-gallery) — Gallery Plugin
+- [aldryn-mailchimp](https://github.com/aldryn/aldryn-mailchimp) - MailChimp integration
 - [aldryn-quote](https://github.com/philipp-x/aldryn-quote) — Quote plugin (for Aldryn platform and django-cms.)
 - [aldryn-responsive](https://github.com/aldryn/aldryn-responsive) — Twitter Bootstrap 'Responsive utilities' css class wrapper
 - [aldryn-segmentation](https://github.com/aldryn/aldryn-segmentation) — dynamic plugin rendering based on rules
