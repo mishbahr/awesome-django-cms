@@ -20,6 +20,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [djangocms-column](https://github.com/divio/djangocms-column) — Column plugin
 - [djangocms_events](https://github.com/aptivate/djangocms_events) — A reusable plugin and app for all kinds of events/calendars.
 - [djangocms-googlemap](https://github.com/divio/djangocms-googlemap) — A Google Maps plugin
+- [djangocms-gmaps](https://github.com/mishbahr/djangocms-gmaps) - Another Google Maps plugins - supports multiple markers.
 - [djangocms-grid](https://github.com/divio/djangocms-grid) — A multi-column plugin, that uses a common grid system.
 - [djangocms-inherit](https://github.com/divio/djangocms-inherit) — inherit plugin for django CMS.
 - [djangocms-link](https://github.com/divio/djangocms-link) — Link plugin
