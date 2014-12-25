@@ -10,7 +10,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [Community](#community)
 
 ## Add-ons
-
+- [aldryn-quote](https://github.com/philipp-x/aldryn-quote) — Quote plugin (for Aldryn platform and django-cms.)
 - [cmsbootstrap](https://github.com/aptivate/cmsbootstrap) — Hit the ground running with an extensible theme based on Twitter Bootstrap.
 - [djangocms-accordion](https://github.com/divio/djangocms-accordion) - Accordion Plugin
 - [cmsplugin-contact](https://github.com/maccesch/cmsplugin-contact) —  Contact plugin for django-cms with spam protection and i18n
