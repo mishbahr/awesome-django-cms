@@ -12,6 +12,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 ## Add-ons
 
 - [cmsbootstrap](https://github.com/aptivate/cmsbootstrap) — Hit the ground running with an extensible theme based on Twitter Bootstrap.
+- [djangocms-accordion](https://github.com/divio/djangocms-accordion) - Accordion Plugin
 - [cmsplugin-contact](https://github.com/maccesch/cmsplugin-contact) —  Contact plugin for django-cms with spam protection and i18n
 - [cmsplugin-contact-plus](https://github.com/arteria/cmsplugin-contact-plus) — form builder for cms
 - [cmsplugin-filer](https://github.com/stefanfoulis/cmsplugin-filer) — django-filer plugins
