@@ -10,6 +10,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [Community](#community)
 
 ## Add-ons
+- [aldryn-forms](https://github.com/aldryn/aldryn-forms) — dynamic forms builder
 - [aldryn-gallery](https://github.com/aldryn/aldryn-gallery) — Gallery Plugin
 - [aldryn-quote](https://github.com/philipp-x/aldryn-quote) — Quote plugin (for Aldryn platform and django-cms.)
 - [aldryn-segmentation](https://github.com/aldryn/aldryn-segmentation) — dynamic plugin rendering based on rules
