@@ -21,6 +21,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [cmsplugin-contact](https://github.com/maccesch/cmsplugin-contact) —  Contact plugin for django-cms with spam protection and i18n
 - [cmsplugin-contact-plus](https://github.com/arteria/cmsplugin-contact-plus) — form builder for cms
 - [cmsplugin-filer](https://github.com/stefanfoulis/cmsplugin-filer) — django-filer plugins
+- [cmsplugin-googleplus](https://github.com/itbabu/cmsplugin-googleplus) - Plugin for fetching Google+ activities
 - [cmsplugin_gallery](https://github.com/centralniak/cmsplugin_gallery) — Photo gallery plugin
 - [djangocms-cascade](https://github.com/jrief/djangocms-cascade) — Swiss army knife for cms placeholders
 - [djangocms-column](https://github.com/divio/djangocms-column) — Column plugin
