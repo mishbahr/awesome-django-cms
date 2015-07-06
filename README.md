@@ -36,6 +36,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [djangocms-link](https://github.com/divio/djangocms-link) — Link plugin
 - [djangocms_mount](https://github.com/aptivate/djangocms_mount) — Embed any class-based view in a DjangoCMS plugin in seconds (especially ListView).
 - [djangocms-oembed](https://github.com/divio/djangocms-oembed) — A set of oembed plugins (currently only video).
+- [djangocms-owl](https://github.com/digital-anvil/djangocms-owl) — Owl Carousel plugin
 - [djangocms-page-meta](https://github.com/nephila/djangocms-page-meta) — OpenGraph, Twitter Card and Google+ snippet tags for cms pages
 - [djangocms-page-tags](https://github.com/nephila/djangocms-page-tags) — Tagged pages using django-taggit
 - [djangocms-picture](https://github.com/divio/djangocms-picture) — Image plugin (Have a look at [cmsplugin-filer](https://github.com/stefanfoulis/cmsplugin-filer/tree/develop/cmsplugin_filer_image) for an alternative image plugin).
