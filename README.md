@@ -60,6 +60,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [django-filer](https://github.com/stefanfoulis/django-filer) — File and Image Management Application for Django — works seamlessly with Django CMS
 - [django-reversion](https://github.com/etianen/django-reversion) — Comprehensive version control for CMS contents.
 - [djangocms-blog](https://github.com/nephila/djangocms-blog) — Blog app for CMS 3.0 with support for multilingual posts, placeholders and social network meta tags.
+- [aldryn-newsblog](https://github.com/aldryn/aldryn-newsblog) — another django-cms powered blog. 
 
 ## Resources
  - [Django CMS Repo](https://github.com/divio/django-cms) — Official django-cms repo on GitHub
