@@ -23,6 +23,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [cmsplugin-filer](https://github.com/stefanfoulis/cmsplugin-filer) — django-filer plugins
 - [cmsplugin-forms-builder](https://github.com/nimbis/cmsplugin-forms-builder) - `django-forms-builder` integration with django-cms
 - [cmsplugin-googleplus](https://github.com/itbabu/cmsplugin-googleplus) - Plugin for fetching Google+ activities
+- [cmsplugin-sections](https://github.com/mkoistinen/cmsplugin-sections) -  Section plugin (very useful for one-page sites) 
 - [cmsplugin_gallery](https://github.com/centralniak/cmsplugin_gallery) — Photo gallery plugin
 - [djangocms-cascade](https://github.com/jrief/djangocms-cascade) — Swiss army knife for cms placeholders
 - [djangocms-column](https://github.com/divio/djangocms-column) — Column plugin
