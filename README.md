@@ -49,6 +49,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [djangocms-timer](https://github.com/nephila/djangocms-timer) - Shows content between specified times.
 - [djangocms_twitter](https://github.com/nephila/djangocms_twitter) — Twitter plugin using 1.1 of the Twitter API
 - [djangocms-twitter2](https://github.com/mishbahr/djangocms-twitter2) — API driven twitter plugin 
+- [djangocms-youtube](https://github.com/mishbahr/djangocms-youtube) - YouTube embed plugin for your django-cms powered site with options for custom video thumbnails, analytics, SEO and more.
 - [djangocms-usersettings2](https://github.com/mishbahr/djangocms-usersettings2) — The missing extension to the Django “sites” framework, use it to store additional information for your Django-powered sites.
 
 
