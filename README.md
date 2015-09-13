@@ -27,6 +27,7 @@ A curated list of awesome django-cms add-ons. Inspired by [awesome-django](https
 - [cmsplugin_gallery](https://github.com/centralniak/cmsplugin_gallery) — Photo gallery plugin
 - [djangocms-cascade](https://github.com/jrief/djangocms-cascade) — Swiss army knife for cms placeholders
 - [djangocms-column](https://github.com/divio/djangocms-column) — Column plugin
+- [djangocms-disqus](https://github.com/mishbahr/djangocms-disqus) — Disqus plugin with SSO intergration.
 - [djangocms_events](https://github.com/aptivate/djangocms_events) — A reusable plugin and app for all kinds of events/calendars.
 - [djangocms-forms](https://github.com/mishbahr/djangocms-forms) - A django CMS Form builder.
 - [djangocms-googlemap](https://github.com/divio/djangocms-googlemap) — A Google Maps plugin
